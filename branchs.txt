@@ -1,0 +1,3 @@
+Branchs são ramificações para trabalharmos de forma separada no projeto, permitindo que não interfiram em outros trabalhos que estão sendo feitos ao mesmo tempo.
+
+é possível fazer um "merge" para juntar as branchs no projeto master.

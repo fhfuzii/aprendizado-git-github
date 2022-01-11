@@ -1,0 +1,3 @@
+para conectar ao github devemos utilizar o comando
+
+git clone <url do repositório>
